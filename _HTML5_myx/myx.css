@@ -1,0 +1,2285 @@
+/*
+	@name myx
+*/
+/* Only edit this if you know what you are doing! */
+body { margin: 0px; padding: 0px; font-family:"Arial"; overflow-x:hidden; }
+
+/* Only edit this if you know what you are doing! */
+img { position: absolute; display: block; margin: 0px; border: none; padding: 0px; }
+
+/* Only edit this if you know what you are doing! */
+div { position: absolute; }
+
+#content-container { display: block; position: relative; width: 1920px; width: 1920px; height: 8855px; overflow: hidden; display: block;  margin-left: auto; margin-right: auto;  }
+
+#_bg__myx {
+	top: 0px;
+	left: 0px;
+	width: 1920px;
+	height: 8855px;
+	background:rgba(255,255,255,1);
+}
+
+#___ {
+	top: 0px;
+	left: 0px;
+	width: 1920px;
+	height: 1080px;
+}
+
+#company_profile_myx_technology_1 {
+	top: 0px;
+	left: -2px;
+	width: 2023px;
+	height: 1100px;
+}
+
+
+#rectangle_2 {
+	opacity:0.69999998807907;
+	top: 190px;
+	left: 260px;
+	width: 1400px;
+	height: 700px;
+	-ms-border-radius: 15px;
+	-o-border-radius: 15px;
+	-moz-border-radius: 15px;
+	-webkit-border-radius: 15px;
+	border-radius: 15px;
+	background:rgba(156,162,141,0.7);
+}
+
+
+#myx_technology {
+	top: 319px;
+	left: 360px;
+	width: 681px;
+	height: 66px;
+	overflow: hidden;
+	font-family: Playfair Display;
+	font-size: 80px;
+	text-align: left;
+	line-height: 10px;
+	padding-top: 70px;
+	margin-top: -70px;
+	color:#FFFFFF;
+}
+
+
+#the_best_solution_come_from_us {
+	top: 465px;
+	left: 360px;
+	width: 563px;
+	height: 35px;
+	overflow: hidden;
+	font-family: Playfair Display;
+	font-size: 36px;
+	font-weight: bold;
+	font-style: italic;
+	text-align: left;
+	line-height: 10px;
+	padding-top: 26px;
+	margin-top: -26px;
+	color:#FFFFFF;
+}
+
+
+#cv__mitra_yudha_xaviera {
+	top: 832px;
+	left: 360px;
+	width: 269px;
+	height: 24px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 20px;
+	text-align: left;
+	line-height: 10px;
+	padding-top: 10px;
+	margin-top: -10px;
+	color:#FFFFFF;
+}
+
+
+#rectangle_5 {
+	top: 401px;
+	left: 351px;
+	width: 800px;
+	height: 5px;
+	-ms-border-radius: 10px;
+	-o-border-radius: 10px;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	border-radius: 10px;
+	background:rgba(255,255,255,1);
+}
+
+#start {
+	top: 760px;
+	left: 1390px;
+	width: 200px;
+	height: 70px;
+}
+
+#rectangle_12 {
+	top: 0px;
+	left: 0px;
+	width: 200px;
+	height: 70px;
+	-ms-border-radius: 30px;
+	-o-border-radius: 30px;
+	-moz-border-radius: 30px;
+	-webkit-border-radius: 30px;
+	border-radius: 30px;
+	background:rgba(217,217,217,1);
+}
+
+
+#get_started {
+	top: 30px;
+	left: 27px;
+	width: 140px;
+	height: 25px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 22px;
+	font-weight: bold;
+	text-align: left;
+	line-height: 10px;
+	padding-top: 12px;
+	margin-top: -12px;
+	color:#000000;
+}
+
+#bx_arrow_back {
+	top: 21px;
+	left: 156px;
+	width: 28px;
+	height: 28px;
+}
+
+#vector {
+	top: 5.01px;
+	left: 3.02px;
+	width: 21.48px;
+	height: 17.98px;
+}
+
+#nav_2 {
+	top: 14px;
+	left: 36px;
+	width: 1789px;
+	height: 77.14px;
+}
+
+#about_us {
+	top: 29px;
+	left: 989px;
+	width: 127px;
+	height: 27px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 24px;
+	text-align: left;
+	line-height: 10px;
+	padding-top: 14px;
+	margin-top: -14px;
+	color:#FFFFFF;
+}
+
+
+#product {
+	top: 29px;
+	left: 1153px;
+	width: 113px;
+	height: 27px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 24px;
+	text-align: left;
+	line-height: 10px;
+	padding-top: 14px;
+	margin-top: -14px;
+	color:#FFFFFF;
+}
+
+
+#service {
+	top: 29px;
+	left: 1303px;
+	width: 108px;
+	height: 27px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 24px;
+	text-align: left;
+	line-height: 10px;
+	padding-top: 14px;
+	margin-top: -14px;
+	color:#FFFFFF;
+}
+
+
+#our_client {
+	top: 29px;
+	left: 1448px;
+	width: 134px;
+	height: 27px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 24px;
+	text-align: left;
+	line-height: 10px;
+	padding-top: 14px;
+	margin-top: -14px;
+	color:#FFFFFF;
+}
+
+#button {
+	top: 8px;
+	left: 1619px;
+	width: 170px;
+	height: 55px;
+}
+
+#rectangle_4 {
+	top: 0px;
+	left: 0px;
+	width: 170px;
+	height: 55px;
+}
+
+
+#contact_us {
+	top: 22px;
+	left: 26px;
+	width: 147px;
+	height: 27px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 24px;
+	text-align: left;
+	line-height: 10px;
+	padding-top: 14px;
+	margin-top: -14px;
+	color:#FFFFFF;
+}
+
+
+#home {
+	top: 29px;
+	left: 858px;
+	width: 94px;
+	height: 27px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 24px;
+	font-weight: bold;
+	text-align: left;
+	line-height: 10px;
+	padding-top: 14px;
+	margin-top: -14px;
+	color:#9CA28D;
+}
+
+
+#desain_tanpa_judul_auto_x2_1 {
+	top: 0px;
+	left: 0px;
+	width: 100px;
+	height: 77.14px;
+}
+
+#_________ {
+	top: 1080px;
+	left: 0px;
+	width: 1920px;
+	height: 1080px;
+}
+#group_1 {
+	top: 90px;
+	left: 97px;
+	width: 205px;
+	height: 63px;
+}
+
+#about_us_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 260px;
+	height: 45px;
+	overflow: hidden;
+	font-family: Playfair Display;
+	font-size: 50px;
+	font-weight: bold;
+	text-align: left;
+	line-height: 10px;
+	padding-top: 40px;
+	margin-top: -40px;
+	color:#000000;
+}
+
+
+#rectangle_7 {
+	top: 56px;
+	left: 0px;
+	width: 80px;
+	height: 7px;
+	-ms-border-radius: 100px;
+	-o-border-radius: 100px;
+	-moz-border-radius: 100px;
+	-webkit-border-radius: 100px;
+	border-radius: 100px;
+	background:rgba(0,0,0,1);
+}
+
+
+#myx_technology_merupakan_salah_satu_bidang_yang_dimiliki_oleh_cv__mitra_yudha_xaviera_yang_berfokus_pada_penyedia_solusi_teknologi_informasi__berkantor_pusat_di_bandung__myx_technology_memiliki_fokus_pada_pengembangan_produk_dan_solusi_teknologi_informasi_untuk_software_development__integrasi_hardware_dan_software__web__mobile_dan_app_design_serta_ppob__payment_point_online_bank__ {
+	top: 181px;
+	left: 97px;
+	width: 839px;
+	height: 427px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 24px;
+	text-align: left;
+	line-height: 40px;
+	margin-top: -5.3333333333333px;
+	height: 451px;
+	letter-spacing: 4.8px;
+	color:#000000;
+}
+
+#keyboard {
+	top: 380px;
+	left: 1085px;
+	width: 400px;
+	height: 700px;
+}
+#frame_2 {
+	top: 0px;
+	left: 0px;
+	width: 400px;
+	height: 700px;
+}
+
+#laptop_mobile_phone_h5_background_1 {
+	top: -2px;
+	left: 0px;
+	width: 400px;
+	height: 710.77px;
+}
+
+#gedung {
+	top: -4px;
+	left: 1508px;
+	width: 300px;
+	height: 600px;
+}
+#frame_1 {
+	top: 0px;
+	left: 0px;
+	width: 300px;
+	height: 600px;
+}
+
+#gedung_1 {
+	top: 0px;
+	left: 0px;
+	width: 300px;
+	height: 600px;
+}
+
+#___________ {
+	top: 2158px;
+	left: 0px;
+	width: 1920px;
+	height: 890px;
+}
+
+#visi {
+	top: 240px;
+	left: 220px;
+	width: 190px;
+	height: 59px;
+	overflow: hidden;
+	font-family: Playfair Display;
+	font-size: 70px;
+	text-align: left;
+	line-height: 10px;
+	padding-top: 60px;
+	margin-top: -60px;
+	color:#FFFFFF;
+}
+
+
+#misi {
+	top: 590px;
+	left: 220px;
+	width: 209px;
+	height: 59px;
+	overflow: hidden;
+	font-family: Playfair Display;
+	font-size: 70px;
+	text-align: left;
+	line-height: 10px;
+	padding-top: 60px;
+	margin-top: -60px;
+	color:#FFFFFF;
+}
+
+
+#menjadi_perusahaan_penyedia_jasa_layanan_teknologi_informasi_terbaik_dan_terpercaya_ {
+	top: 242px;
+	left: 717px;
+	width: 873px;
+	height: 53px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 22px;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+
+#line_1 {
+	top: 415px;
+	left: 139px;
+	width: 1642px;
+	height: 3px;
+	background:#FFFFFF;
+}
+
+
+#memberikan_solusi_teknologi_informasi_yang_inovatif__mengedepankan_kerja_sama__profesionalitas_dan_hubungan_kemitraan_yang_saling_menguntungkan_serta_mengembangkan_produk_teknologi_informasi_yang_inovatif_dan_berkualitas_ {
+	top: 503px;
+	left: 717px;
+	width: 1016px;
+	height: 198px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 22px;
+	font-weight: bold;
+	text-align: left;
+	line-height: 50px;
+	margin-top: -9.3333333333333px;
+	height: 220px;
+	letter-spacing: 2.2px;
+	color:#FFFFFF;
+}
+
+#____ek1 {
+	top: 3049px;
+	left: 0px;
+	width: 1920px;
+	height: 1080px;
+}
+
+#background_1 {
+	top: 0px;
+	left: 0px;
+	width: 1920px;
+	height: 1080px;
+}
+
+
+#our_product {
+	top: 90px;
+	left: 868px;
+	width: 194px;
+	height: 61px;
+	overflow: hidden;
+	font-family: Playfair Display;
+	font-size: 30px;
+	font-weight: bold;
+	text-align: justified;
+	color:#393939;
+}
+
+
+#kami_memiliki_beberapa_produk_yang_telah_kami_rancang_sehingga_mampu_memberikan_nilai_luar_biasa_bagi_para_penggunanya_ {
+	top: 154px;
+	left: 453px;
+	width: 1021px;
+	height: 75px;
+	overflow: hidden;
+	font-family: Open Sans;
+	font-size: 22px;
+	text-align: center;
+	color:#000000;
+}
+
+#product_ek1 {
+	top: 321px;
+	left: 285px;
+	width: 1350px;
+	height: 375px;
+}
+#sipoint {
+	top: 0px;
+	left: 0px;
+	width: 300px;
+	height: 375px;
+}
+
+#rectangle_16 {
+	top: 0px;
+	left: 0px;
+	width: 302px;
+	height: 377px;
+	-ms-border-radius: 10px;
+	-o-border-radius: 10px;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	border-radius: 10px;
+	border: 1px solid #9ca28d;
+	-ms-box-shadow:0px 6px 4px 1px rgba(0,0,0,0.25);
+	-o-box-shadow:0px 6px 4px 1px rgba(0,0,0,0.25);
+	-webkit-box-shadow:0px 6px 4px 1px rgba(0,0,0,0.25);
+	-moz-box-shadow:0px 6px 4px 1px rgba(0,0,0,0.25);
+	box-shadow:0px 6px 4px 1px rgba(0,0,0,0.25);
+	background:rgba(255,255,255,1);
+}
+
+
+#sipoint_ek1 {
+	top: 233px;
+	left: 25px;
+	width: 97px;
+	height: 25px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 22px;
+	font-weight: bold;
+	text-align: left;
+	line-height: 10px;
+	padding-top: 12px;
+	margin-top: -12px;
+	color:#000000;
+}
+
+
+#payment_point_online_bank_mobile_app {
+	top: 259px;
+	left: 25px;
+	width: 288px;
+	height: 71px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 16px;
+	text-align: left;
+	line-height: 30px;
+	margin-top: -4.6666666666667px;
+	height: 87px;
+	letter-spacing: 0.8px;
+	color:#000000;
+}
+
+
+#login_1 {
+	top: 0px;
+	left: 0px;
+	width: 300px;
+	height: 180px;
+}
+
+#bx_arrow_back_ek1 {
+	top: 325px;
+	left: 250px;
+	width: 30px;
+	height: 30px;
+}
+
+#vector_ek1 {
+	top: 5.37px;
+	left: 3.23px;
+	width: 23.02px;
+	height: 19.27px;
+}
+
+#sp2se {
+	top: 0px;
+	left: 350px;
+	width: 300px;
+	height: 375px;
+}
+
+#rectangle_17 {
+	top: 0px;
+	left: 0px;
+	width: 302px;
+	height: 377px;
+	-ms-border-radius: 10px;
+	-o-border-radius: 10px;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	border-radius: 10px;
+	border: 1px solid #9ca28d;
+	-ms-box-shadow:0px 6px 4px 1px rgba(0,0,0,0.25);
+	-o-box-shadow:0px 6px 4px 1px rgba(0,0,0,0.25);
+	-webkit-box-shadow:0px 6px 4px 1px rgba(0,0,0,0.25);
+	-moz-box-shadow:0px 6px 4px 1px rgba(0,0,0,0.25);
+	box-shadow:0px 6px 4px 1px rgba(0,0,0,0.25);
+	background:rgba(255,255,255,1);
+}
+
+
+#sp2se__2__1 {
+	top: 0px;
+	left: 0px;
+	width: 300px;
+	height: 189.6px;
+}
+
+
+#sp2se_ek1 {
+	top: 233px;
+	left: 25px;
+	width: 93px;
+	height: 25px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 22px;
+	font-weight: bold;
+	text-align: left;
+	line-height: 10px;
+	padding-top: 12px;
+	margin-top: -12px;
+	color:#000000;
+}
+
+
+#sistem_percepatan_pelayanan_surat_elektronik {
+	top: 259px;
+	left: 25px;
+	width: 288px;
+	height: 71px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 16px;
+	text-align: left;
+	line-height: 30px;
+	margin-top: -4.6666666666667px;
+	height: 87px;
+	letter-spacing: 0.8px;
+	color:#000000;
+}
+
+#bx_arrow_back_ek2 {
+	top: 325px;
+	left: 250px;
+	width: 30px;
+	height: 30px;
+}
+
+#vector_ek2 {
+	top: 5.37px;
+	left: 3.23px;
+	width: 23.02px;
+	height: 19.27px;
+}
+
+#glampay {
+	top: 0px;
+	left: 700px;
+	width: 300px;
+	height: 375px;
+}
+
+#rectangle_18 {
+	top: 0px;
+	left: 0px;
+	width: 302px;
+	height: 377px;
+	-ms-border-radius: 10px;
+	-o-border-radius: 10px;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	border-radius: 10px;
+	border: 1px solid #9ca28d;
+	-ms-box-shadow:0px 6px 4px 1px rgba(0,0,0,0.25);
+	-o-box-shadow:0px 6px 4px 1px rgba(0,0,0,0.25);
+	-webkit-box-shadow:0px 6px 4px 1px rgba(0,0,0,0.25);
+	-moz-box-shadow:0px 6px 4px 1px rgba(0,0,0,0.25);
+	box-shadow:0px 6px 4px 1px rgba(0,0,0,0.25);
+	background:rgba(255,255,255,1);
+}
+
+
+#rectangle_4071 {
+	opacity:0.5;
+	top: 0px;
+	left: 0px;
+	width: 300px;
+	height: 180px;
+	-ms-border-radius: 10px;
+	-o-border-radius: 10px;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	border-radius: 10px;
+	background:rgba(156,162,141,0.5);
+}
+
+
+#g {
+	top: 45px;
+	left: 121px;
+	width: 143px;
+	height: 86px;
+	overflow: hidden;
+	font-family: Playfair Display;
+	font-size: 80px;
+	font-weight: bold;
+	text-align: left;
+	line-height: 30px;
+	padding-top: 50px;
+	margin-top: -50px;
+	letter-spacing: 4px;
+	color:#000000;
+}
+
+
+#glampay_ek1 {
+	top: 113px;
+	left: 85px;
+	width: 164px;
+	height: 51px;
+	overflow: hidden;
+	font-family: Playfair Display;
+	font-size: 30px;
+	text-align: left;
+	letter-spacing: 1.5px;
+	color:#000000;
+}
+
+
+#glampay_ek2 {
+	top: 233px;
+	left: 25px;
+	width: 114px;
+	height: 25px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 22px;
+	font-weight: bold;
+	text-align: left;
+	line-height: 10px;
+	padding-top: 12px;
+	margin-top: -12px;
+	color:#000000;
+}
+
+
+#payment_gateway {
+	top: 259px;
+	left: 25px;
+	width: 203px;
+	height: 43px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 18px;
+	text-align: left;
+	line-height: 30px;
+	margin-top: -4px;
+	height: 61px;
+	letter-spacing: 0.9px;
+	color:#000000;
+}
+
+#bx_arrow_back_ek3 {
+	top: 325px;
+	left: 250px;
+	width: 30px;
+	height: 30px;
+}
+
+#vector_ek3 {
+	top: 5.37px;
+	left: 3.23px;
+	width: 23.02px;
+	height: 19.27px;
+}
+
+#myxpay {
+	top: 0px;
+	left: 1050px;
+	width: 300px;
+	height: 375px;
+}
+
+#rectangle_18_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 302px;
+	height: 377px;
+	-ms-border-radius: 10px;
+	-o-border-radius: 10px;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	border-radius: 10px;
+	border: 1px solid #9ca28d;
+	-ms-box-shadow:0px 6px 4px 1px rgba(0,0,0,0.25);
+	-o-box-shadow:0px 6px 4px 1px rgba(0,0,0,0.25);
+	-webkit-box-shadow:0px 6px 4px 1px rgba(0,0,0,0.25);
+	-moz-box-shadow:0px 6px 4px 1px rgba(0,0,0,0.25);
+	box-shadow:0px 6px 4px 1px rgba(0,0,0,0.25);
+	background:rgba(255,255,255,1);
+}
+
+
+#rectangle_4071_ek1 {
+	opacity:0.5;
+	top: 0px;
+	left: 0px;
+	width: 300px;
+	height: 180px;
+	-ms-border-radius: 10px;
+	-o-border-radius: 10px;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	border-radius: 10px;
+	background:rgba(141,160.74,162,0.5);
+}
+
+
+#myx {
+	top: 45px;
+	left: 69px;
+	width: 236px;
+	height: 79px;
+	overflow: hidden;
+	font-family: Playfair Display;
+	font-size: 70px;
+	font-weight: bold;
+	text-align: left;
+	line-height: 30px;
+	padding-top: 40px;
+	margin-top: -40px;
+	letter-spacing: 3.5px;
+	color:#000000;
+}
+
+
+#myxpay_ek1 {
+	top: 113px;
+	left: 95px;
+	width: 143px;
+	height: 50px;
+	overflow: hidden;
+	font-family: Playfair Display;
+	font-size: 28px;
+	text-align: left;
+	line-height: 30px;
+	letter-spacing: 1.4px;
+	color:#000000;
+}
+
+
+#myxpay_ek2 {
+	top: 233px;
+	left: 25px;
+	width: 111px;
+	height: 25px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 22px;
+	font-weight: bold;
+	text-align: left;
+	line-height: 10px;
+	padding-top: 12px;
+	margin-top: -12px;
+	color:#000000;
+}
+
+
+#payment_point_online_bank_mobile_app__by_request_ {
+	top: 259px;
+	left: 25px;
+	width: 290px;
+	height: 73px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 18px;
+	text-align: left;
+	line-height: 30px;
+	margin-top: -4px;
+	height: 91px;
+	letter-spacing: 0.9px;
+	color:#000000;
+}
+
+#bx_arrow_back_ek4 {
+	top: 325px;
+	left: 250px;
+	width: 30px;
+	height: 30px;
+}
+
+#vector_ek4 {
+	top: 5.37px;
+	left: 3.23px;
+	width: 23.02px;
+	height: 19.27px;
+}
+
+#__ {
+	top: 4129px;
+	left: 0px;
+	width: 1920px;
+	height: 1080px;
+}
+
+#background2_3 {
+	top: 0px;
+	left: 0px;
+	width: 1920px;
+	height: 1080px;
+}
+
+
+#background2_1 {
+	top: 0px;
+	left: -2px;
+	width: 1920px;
+	height: 1080px;
+	background:rgba(255,255,255,0);
+}
+
+
+#our_service {
+	top: -10px;
+	left: 855px;
+	width: 220px;
+	height: 73px;
+	overflow: hidden;
+	font-family: Playfair Display;
+	font-size: 36px;
+	font-weight: bold;
+	text-align: justified;
+	color:#393939;
+}
+
+
+#sebutkan_ide_dan_kebutuhan_anda_tentang_seperti_apa_dan_apa_saja_kebutuhan_yang_anda_perlukan_pada_perangkat_lunak_yang_anda_inginkan__kami_akan_membantu_anda_untuk_menemukan_solusi_terbaik_ {
+	top: 65px;
+	left: 324px;
+	width: 1281px;
+	height: 68px;
+	overflow: hidden;
+	font-family: Open Sans;
+	font-size: 20px;
+	text-align: center;
+	color:#000000;
+}
+
+#software_development {
+	top: 174px;
+	left: 250px;
+	width: 360px;
+	height: 286px;
+}
+
+#software_development_ek1 {
+	top: 148px;
+	left: 32px;
+	width: 306px;
+	height: 53px;
+	overflow: hidden;
+	font-family: Open Sans;
+	font-size: 26px;
+	font-weight: bold;
+	text-align: justified;
+	color:#373737;
+}
+
+
+#rectangle_4072 {
+	top: 17px;
+	left: 134px;
+	width: 90px;
+	height: 90px;
+	-ms-border-radius: 20px;
+	-o-border-radius: 20px;
+	-moz-border-radius: 20px;
+	-webkit-border-radius: 20px;
+	border-radius: 20px;
+	
+	-ms-transform:rotate(33.74deg);
+	-o-transform:rotate(33.74deg);
+	-webkit-transform:rotate(33.74deg);
+	-moz-transform:rotate(33.74deg);
+	transform:rotate(33.74deg);
+	background:rgba(255,255,255,0);
+	background: -webkit-linear-gradient(-134.64031210676deg , rgba(225.27,225.27,225.27,1) 0%, rgba(238,241,251,0) 27%);
+	background: -o-linear-gradient(-134.64031210676deg , rgba(225.27,225.27,225.27,1) 0%, rgba(238,241,251,0) 27%);
+	background: -moz-linear-gradient(-134.64031210676deg , rgba(225.27,225.27,225.27,1) 0%, rgba(238,241,251,0) 27%);
+	background: -ms-linear-gradient(-134.64031210676deg , rgba(225.27,225.27,225.27,1) 0%, rgba(238,241,251,0) 27%);
+	background: linear-gradient(-134.64031210676deg , rgba(225.27,225.27,225.27,1) 0%, rgba(238,241,251,0) 27%);
+}
+
+
+#web__1__1 {
+	top: 44px;
+	left: 144px;
+	width: 64px;
+	height: 64px;
+}
+
+
+#pada_saat_ini_hampir_setiap_perusahaan_membutuhkan_aplikasi_yang_dapat_membantu_operasional_yang_ada_ {
+	top: 203px;
+	left: -3px;
+	width: 374px;
+	height: 96px;
+	overflow: hidden;
+	font-family: Open Sans;
+	font-size: 18px;
+	text-align: center;
+	color:#000000;
+}
+
+#ppob {
+	top: 174px;
+	left: 761px;
+	width: 399px;
+	height: 282px;
+}
+
+#payment_poin_online_bank {
+	top: 148px;
+	left: -4px;
+	width: 416px;
+	height: 50px;
+	overflow: hidden;
+	font-family: Open Sans;
+	font-size: 24px;
+	font-weight: bold;
+	text-align: center;
+	color:#000000;
+}
+
+
+#rectangle_4073 {
+	top: 17px;
+	left: 141px;
+	width: 90px;
+	height: 90px;
+	-ms-border-radius: 20px;
+	-o-border-radius: 20px;
+	-moz-border-radius: 20px;
+	-webkit-border-radius: 20px;
+	border-radius: 20px;
+	
+	-ms-transform:rotate(33.74deg);
+	-o-transform:rotate(33.74deg);
+	-webkit-transform:rotate(33.74deg);
+	-moz-transform:rotate(33.74deg);
+	transform:rotate(33.74deg);
+	background:rgba(255,255,255,0);
+	background: -webkit-linear-gradient(-134.64031210676deg , rgba(225.27,225.27,225.27,1) 0%, rgba(238,241,251,0) 27%);
+	background: -o-linear-gradient(-134.64031210676deg , rgba(225.27,225.27,225.27,1) 0%, rgba(238,241,251,0) 27%);
+	background: -moz-linear-gradient(-134.64031210676deg , rgba(225.27,225.27,225.27,1) 0%, rgba(238,241,251,0) 27%);
+	background: -ms-linear-gradient(-134.64031210676deg , rgba(225.27,225.27,225.27,1) 0%, rgba(238,241,251,0) 27%);
+	background: linear-gradient(-134.64031210676deg , rgba(225.27,225.27,225.27,1) 0%, rgba(238,241,251,0) 27%);
+}
+
+
+#payment_1 {
+	top: 32px;
+	left: 152px;
+	width: 64px;
+	height: 64px;
+}
+
+
+#merupakan_layanan_khusus_untuk_membantu_masyarakat_dalam_melakukan_pembayaran_menggunakan_sistem_perbankan {
+	top: 203px;
+	left: 11px;
+	width: 384px;
+	height: 92px;
+	overflow: hidden;
+	font-family: Open Sans;
+	font-size: 18px;
+	text-align: center;
+	color:#000000;
+}
+
+#ppob_ek1 {
+	top: 516px;
+	left: 761px;
+	width: 399px;
+	height: 346px;
+}
+
+#app_design {
+	top: 148px;
+	left: -4px;
+	width: 417px;
+	height: 53px;
+	overflow: hidden;
+	font-family: Open Sans;
+	font-size: 26px;
+	font-weight: bold;
+	text-align: center;
+	color:#000000;
+}
+
+
+#rectangle_4073_ek1 {
+	top: 17px;
+	left: 141px;
+	width: 90px;
+	height: 90px;
+	-ms-border-radius: 20px;
+	-o-border-radius: 20px;
+	-moz-border-radius: 20px;
+	-webkit-border-radius: 20px;
+	border-radius: 20px;
+	
+	-ms-transform:rotate(33.74deg);
+	-o-transform:rotate(33.74deg);
+	-webkit-transform:rotate(33.74deg);
+	-moz-transform:rotate(33.74deg);
+	transform:rotate(33.74deg);
+	background:rgba(255,255,255,0);
+	background: -webkit-linear-gradient(-134.64031210676deg , rgba(225.27,225.27,225.27,1) 0%, rgba(238,241,251,0) 27%);
+	background: -o-linear-gradient(-134.64031210676deg , rgba(225.27,225.27,225.27,1) 0%, rgba(238,241,251,0) 27%);
+	background: -moz-linear-gradient(-134.64031210676deg , rgba(225.27,225.27,225.27,1) 0%, rgba(238,241,251,0) 27%);
+	background: -ms-linear-gradient(-134.64031210676deg , rgba(225.27,225.27,225.27,1) 0%, rgba(238,241,251,0) 27%);
+	background: linear-gradient(-134.64031210676deg , rgba(225.27,225.27,225.27,1) 0%, rgba(238,241,251,0) 27%);
+}
+
+
+#ux_design_1 {
+	top: 39px;
+	left: 142px;
+	width: 64px;
+	height: 64px;
+}
+
+
+#konsultasikan_design_sesuai_dengan_kebuthan_anda__kami_akan_membantu_anda_untuk_menemukan_design_terbaik {
+	top: 203px;
+	left: -3px;
+	width: 413px;
+	height: 156px;
+	overflow: hidden;
+	font-family: Open Sans;
+	font-size: 18px;
+	text-align: center;
+	color:#000000;
+}
+
+#ppob_ek2 {
+	top: 174px;
+	left: 1257px;
+	width: 470px;
+	height: 253px;
+}
+
+#integrasi_hardware_dan_software {
+	top: 148px;
+	left: -4px;
+	width: 487px;
+	height: 50px;
+	overflow: hidden;
+	font-family: Open Sans;
+	font-size: 24px;
+	font-weight: bold;
+	text-align: center;
+	color:#000000;
+}
+
+
+#rectangle_4073_ek2 {
+	top: 17px;
+	left: 152px;
+	width: 90px;
+	height: 90px;
+	-ms-border-radius: 20px;
+	-o-border-radius: 20px;
+	-moz-border-radius: 20px;
+	-webkit-border-radius: 20px;
+	border-radius: 20px;
+	
+	-ms-transform:rotate(33.74deg);
+	-o-transform:rotate(33.74deg);
+	-webkit-transform:rotate(33.74deg);
+	-moz-transform:rotate(33.74deg);
+	transform:rotate(33.74deg);
+	background:rgba(255,255,255,0);
+	background: -webkit-linear-gradient(-134.64031210676deg , rgba(225.27,225.27,225.27,1) 0%, rgba(238,241,251,0) 27%);
+	background: -o-linear-gradient(-134.64031210676deg , rgba(225.27,225.27,225.27,1) 0%, rgba(238,241,251,0) 27%);
+	background: -moz-linear-gradient(-134.64031210676deg , rgba(225.27,225.27,225.27,1) 0%, rgba(238,241,251,0) 27%);
+	background: -ms-linear-gradient(-134.64031210676deg , rgba(225.27,225.27,225.27,1) 0%, rgba(238,241,251,0) 27%);
+	background: linear-gradient(-134.64031210676deg , rgba(225.27,225.27,225.27,1) 0%, rgba(238,241,251,0) 27%);
+}
+
+
+#hardware_1 {
+	top: 34px;
+	left: 159px;
+	width: 64px;
+	height: 64px;
+}
+
+
+#merupakan_pengintegrasian_antara_hardware_dan_software_untuk_beberapa_keperluan_tertentu {
+	top: 203px;
+	left: 32px;
+	width: 413px;
+	height: 63px;
+	overflow: hidden;
+	font-family: Open Sans;
+	font-size: 18px;
+	text-align: center;
+	color:#000000;
+}
+
+#____ek2 {
+	top: 5209px;
+	left: 0px;
+	width: 1920px;
+	height: 1080px;
+}
+
+#building_1 {
+	top: 0px;
+	left: 0px;
+	width: 1920px;
+	height: 1080px;
+}
+
+
+#rectangle_4074 {
+	opacity:0.85000002384186;
+	top: 0px;
+	left: 0px;
+	width: 1920px;
+	height: 1080px;
+	background:rgba(156,162,141,0.85);
+}
+
+
+#why_choose_us_ {
+	top: 157px;
+	left: 216px;
+	width: 683px;
+	height: 71px;
+	overflow: hidden;
+	font-family: Playfair Display;
+	font-size: 60px;
+	font-weight: bold;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+#why {
+	top: 268px;
+	left: 310px;
+	width: 1323px;
+	height: 563px;
+}
+
+#rectangle_4081 {
+	top: 0px;
+	left: 916px;
+	width: 407px;
+	height: 263px;
+	-ms-border-radius: 10px;
+	-o-border-radius: 10px;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	border-radius: 10px;
+	-ms-box-shadow:0px 4px 4px 1px rgba(0,0,0,0.25);
+	-o-box-shadow:0px 4px 4px 1px rgba(0,0,0,0.25);
+	-webkit-box-shadow:0px 4px 4px 1px rgba(0,0,0,0.25);
+	-moz-box-shadow:0px 4px 4px 1px rgba(0,0,0,0.25);
+	box-shadow:0px 4px 4px 1px rgba(0,0,0,0.25);
+	background:rgba(255,255,255,0);
+	background: -webkit-linear-gradient(-227.39117403577deg , rgba(255,255,255,1) 0%, rgba(255,255,255,0) 100%);
+	background: -o-linear-gradient(-227.39117403577deg , rgba(255,255,255,1) 0%, rgba(255,255,255,0) 100%);
+	background: -moz-linear-gradient(-227.39117403577deg , rgba(255,255,255,1) 0%, rgba(255,255,255,0) 100%);
+	background: -ms-linear-gradient(-227.39117403577deg , rgba(255,255,255,1) 0%, rgba(255,255,255,0) 100%);
+	background: linear-gradient(-227.39117403577deg , rgba(255,255,255,1) 0%, rgba(255,255,255,0) 100%);
+}
+
+
+#harga_yang_bersahabat {
+	top: 50px;
+	left: 966px;
+	width: 302px;
+	height: 48px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 26px;
+	font-weight: bold;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+
+#kami_memberikan_harga_terbaik_sesuai_dengan_anggaran_yang_anda_miliki {
+	top: 114px;
+	left: 966px;
+	width: 380px;
+	height: 55px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 18px;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+#inovasi {
+	top: 0px;
+	left: 460px;
+	width: 407px;
+	height: 263px;
+}
+
+#rectangle_4080 {
+	top: 0px;
+	left: 0px;
+	width: 407px;
+	height: 263px;
+	-ms-border-radius: 10px;
+	-o-border-radius: 10px;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	border-radius: 10px;
+	-ms-box-shadow:0px 4px 4px 1px rgba(0,0,0,0.25);
+	-o-box-shadow:0px 4px 4px 1px rgba(0,0,0,0.25);
+	-webkit-box-shadow:0px 4px 4px 1px rgba(0,0,0,0.25);
+	-moz-box-shadow:0px 4px 4px 1px rgba(0,0,0,0.25);
+	box-shadow:0px 4px 4px 1px rgba(0,0,0,0.25);
+	background:rgba(255,255,255,0);
+	background: -webkit-linear-gradient(-227.39117403577deg , rgba(255,255,255,1) 0%, rgba(255,255,255,0) 100%);
+	background: -o-linear-gradient(-227.39117403577deg , rgba(255,255,255,1) 0%, rgba(255,255,255,0) 100%);
+	background: -moz-linear-gradient(-227.39117403577deg , rgba(255,255,255,1) 0%, rgba(255,255,255,0) 100%);
+	background: -ms-linear-gradient(-227.39117403577deg , rgba(255,255,255,1) 0%, rgba(255,255,255,0) 100%);
+	background: linear-gradient(-227.39117403577deg , rgba(255,255,255,1) 0%, rgba(255,255,255,0) 100%);
+}
+
+
+#kami_selalu_berkomitmen_untuk_berinovasi_dalam_menemukan_solusi_dan_selalu_berinovasi_dalam_pengembangan_produk {
+	top: 122px;
+	left: 40px;
+	width: 359px;
+	height: 97px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 18px;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+
+#inisiatif_untuk_berinovasi {
+	top: 60px;
+	left: 40px;
+	width: 313px;
+	height: 45px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 24px;
+	font-weight: bold;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+#profesional {
+	top: 0px;
+	left: 0px;
+	width: 407px;
+	height: 263px;
+}
+
+#rectangle_4075 {
+	top: 0px;
+	left: 0px;
+	width: 407px;
+	height: 263px;
+	-ms-border-radius: 10px;
+	-o-border-radius: 10px;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	border-radius: 10px;
+	-ms-box-shadow:0px 4px 4px 1px rgba(0,0,0,0.25);
+	-o-box-shadow:0px 4px 4px 1px rgba(0,0,0,0.25);
+	-webkit-box-shadow:0px 4px 4px 1px rgba(0,0,0,0.25);
+	-moz-box-shadow:0px 4px 4px 1px rgba(0,0,0,0.25);
+	box-shadow:0px 4px 4px 1px rgba(0,0,0,0.25);
+	background:rgba(255,255,255,0);
+	background: -webkit-linear-gradient(-227.39117403577deg , rgba(255,255,255,1) 0%, rgba(255,255,255,0) 100%);
+	background: -o-linear-gradient(-227.39117403577deg , rgba(255,255,255,1) 0%, rgba(255,255,255,0) 100%);
+	background: -moz-linear-gradient(-227.39117403577deg , rgba(255,255,255,1) 0%, rgba(255,255,255,0) 100%);
+	background: -ms-linear-gradient(-227.39117403577deg , rgba(255,255,255,1) 0%, rgba(255,255,255,0) 100%);
+	background: linear-gradient(-227.39117403577deg , rgba(255,255,255,1) 0%, rgba(255,255,255,0) 100%);
+}
+
+
+#kami_konsisten_menjunjung_tinggi_profesionalisme_agar_tercapai_hubungan_kerja_sama_yang_baik_ {
+	top: 125px;
+	left: 41px;
+	width: 344.75px;
+	height: 76px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 18px;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+
+#professional {
+	top: 60px;
+	left: 41px;
+	width: 250.13px;
+	height: 53px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 28px;
+	font-weight: bold;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+#transparan {
+	top: 300px;
+	left: 186px;
+	width: 407px;
+	height: 263px;
+}
+
+#rectangle_4082 {
+	top: 0px;
+	left: 0px;
+	width: 407px;
+	height: 263px;
+	-ms-border-radius: 10px;
+	-o-border-radius: 10px;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	border-radius: 10px;
+	-ms-box-shadow:0px 4px 4px 1px rgba(0,0,0,0.25);
+	-o-box-shadow:0px 4px 4px 1px rgba(0,0,0,0.25);
+	-webkit-box-shadow:0px 4px 4px 1px rgba(0,0,0,0.25);
+	-moz-box-shadow:0px 4px 4px 1px rgba(0,0,0,0.25);
+	box-shadow:0px 4px 4px 1px rgba(0,0,0,0.25);
+	background:rgba(255,255,255,0);
+	background: -webkit-linear-gradient(-227.39117403577deg , rgba(255,255,255,1) 0%, rgba(255,255,255,0) 100%);
+	background: -o-linear-gradient(-227.39117403577deg , rgba(255,255,255,1) 0%, rgba(255,255,255,0) 100%);
+	background: -moz-linear-gradient(-227.39117403577deg , rgba(255,255,255,1) 0%, rgba(255,255,255,0) 100%);
+	background: -ms-linear-gradient(-227.39117403577deg , rgba(255,255,255,1) 0%, rgba(255,255,255,0) 100%);
+	background: linear-gradient(-227.39117403577deg , rgba(255,255,255,1) 0%, rgba(255,255,255,0) 100%);
+}
+
+
+#transparansi_dalam_proyek_dan_bisnis {
+	top: 60px;
+	left: 40px;
+	width: 345px;
+	height: 67px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 22px;
+	font-weight: bold;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+
+#kami_sangat_terbuka_dalam_proyek_dan_bisnis_guna_terjalinnya_hubungan_kerja_sama_yang_dilandasi_dengan_rasa_kepercayaan {
+	top: 132px;
+	left: 40px;
+	width: 341px;
+	height: 97px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 18px;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+#flexible {
+	top: 300px;
+	left: 665px;
+	width: 407px;
+	height: 263px;
+}
+
+#rectangle_4083 {
+	top: 0px;
+	left: 0px;
+	width: 407px;
+	height: 263px;
+	-ms-border-radius: 10px;
+	-o-border-radius: 10px;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	border-radius: 10px;
+	-ms-box-shadow:0px 4px 4px 1px rgba(0,0,0,0.25);
+	-o-box-shadow:0px 4px 4px 1px rgba(0,0,0,0.25);
+	-webkit-box-shadow:0px 4px 4px 1px rgba(0,0,0,0.25);
+	-moz-box-shadow:0px 4px 4px 1px rgba(0,0,0,0.25);
+	box-shadow:0px 4px 4px 1px rgba(0,0,0,0.25);
+	background:rgba(255,255,255,0);
+	background: -webkit-linear-gradient(-227.39117403577deg , rgba(255,255,255,1) 0%, rgba(255,255,255,0) 100%);
+	background: -o-linear-gradient(-227.39117403577deg , rgba(255,255,255,1) 0%, rgba(255,255,255,0) 100%);
+	background: -moz-linear-gradient(-227.39117403577deg , rgba(255,255,255,1) 0%, rgba(255,255,255,0) 100%);
+	background: -ms-linear-gradient(-227.39117403577deg , rgba(255,255,255,1) 0%, rgba(255,255,255,0) 100%);
+	background: linear-gradient(-227.39117403577deg , rgba(255,255,255,1) 0%, rgba(255,255,255,0) 100%);
+}
+
+
+#flexible_untuk_memenuhi_kebutuhan_client {
+	top: 60px;
+	left: 35px;
+	width: 362px;
+	height: 60px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 20px;
+	font-weight: bold;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+
+#kami_fleksibel_dalam_memenuhi_kebutuhan_client_sesuai_dengan_kebutuhannya_ {
+	top: 134px;
+	left: 35px;
+	width: 353px;
+	height: 76px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 18px;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+#____ {
+	top: 6289px;
+	left: 0px;
+	width: 1920px;
+	height: 900px;
+}
+
+#client_1 {
+	top: 214px;
+	left: 372px;
+	width: 1175px;
+	height: 407px;
+}
+
+
+#our_client_ek1 {
+	top: 85px;
+	left: 844px;
+	width: 286px;
+	height: 45px;
+	overflow: hidden;
+	font-family: Playfair Display;
+	font-size: 50px;
+	font-weight: bold;
+	text-align: left;
+	line-height: 10px;
+	padding-top: 40px;
+	margin-top: -40px;
+	color:#000000;
+}
+
+
+#rectangle_7_ek1 {
+	top: 130px;
+	left: 910px;
+	width: 100px;
+	height: 7px;
+	-ms-border-radius: 100px;
+	-o-border-radius: 100px;
+	-moz-border-radius: 100px;
+	-webkit-border-radius: 100px;
+	border-radius: 100px;
+	background:rgba(0,0,0,1);
+}
+
+#_______ {
+	top: 7168px;
+	left: 0px;
+	width: 1920px;
+	height: 1080px;
+}
+
+#team_wall_1 {
+	top: 0px;
+	left: 0px;
+	width: 1920px;
+	height: 1080px;
+}
+
+
+#welcome_to_our_team {
+	top: 128px;
+	left: 110px;
+	width: 615px;
+	height: 81px;
+	overflow: hidden;
+	font-family: Playfair Display;
+	font-size: 40px;
+	font-weight: bold;
+	text-align: left;
+	color:#575F45;
+}
+
+#photo {
+	top: 313px;
+	left: 277px;
+	width: 1365px;
+	height: 465px;
+}
+#dharm {
+	top: 0px;
+	left: 350px;
+	width: 315px;
+	height: 465px;
+}
+#frame_4 {
+	top: 0px;
+	left: 15px;
+	width: 300px;
+	height: 375px;
+}
+
+#whatsapp_image_2022_09_16_at_10_09 {
+	top: 103px;
+	left: 3px;
+	width: 300px;
+	height: 332.59px;
+}
+
+
+#m__dharma_yudhatama {
+	top: 393px;
+	left: 0px;
+	width: 328px;
+	height: 49px;
+	overflow: hidden;
+	font-family: Playfair Display;
+	font-size: 24px;
+	font-weight: bold;
+	text-align: left;
+	color:#575F45;
+}
+
+
+#president_commisioner {
+	top: 438px;
+	left: 43px;
+	width: 239px;
+	height: 41px;
+	overflow: hidden;
+	font-family: Playfair Display;
+	font-size: 20px;
+	text-align: left;
+	color:#575F45;
+}
+
+#pretty {
+	top: 0px;
+	left: 0px;
+	width: 300px;
+	height: 465px;
+}
+#pretty_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 300px;
+	height: 375px;
+}
+
+#whatsapp_image_2022_09_16_at_10_16 {
+	top: 88px;
+	left: 9px;
+	width: 300px;
+	height: 303.33px;
+}
+
+
+#pretty_shafira_dewi {
+	top: 396px;
+	left: 12px;
+	width: 305px;
+	height: 49px;
+	overflow: hidden;
+	font-family: Playfair Display;
+	font-size: 24px;
+	font-weight: bold;
+	text-align: left;
+	color:#575F45;
+}
+
+
+#chief_executive_officer {
+	top: 438px;
+	left: 46px;
+	width: 232px;
+	height: 41px;
+	overflow: hidden;
+	font-family: Playfair Display;
+	font-size: 20px;
+	text-align: left;
+	color:#575F45;
+}
+
+#naufal {
+	top: 0px;
+	left: 715px;
+	width: 300px;
+	height: 462px;
+}
+#frame_5 {
+	top: 0px;
+	left: 0px;
+	width: 300px;
+	height: 375px;
+}
+
+#whatsapp_image_2022_09_16_at_10_04 {
+	top: 91px;
+	left: 0px;
+	width: 300px;
+	height: 329.61px;
+}
+
+
+#naufal_exell_rabbani {
+	top: 392px;
+	left: 7px;
+	width: 315px;
+	height: 49px;
+	overflow: hidden;
+	font-family: Playfair Display;
+	font-size: 24px;
+	font-weight: bold;
+	text-align: left;
+	color:#575F45;
+}
+
+
+#chief_operating_officer {
+	top: 435px;
+	left: 44px;
+	width: 236px;
+	height: 41px;
+	overflow: hidden;
+	font-family: Playfair Display;
+	font-size: 20px;
+	text-align: left;
+	color:#575F45;
+}
+
+#syeiwal {
+	top: 0px;
+	left: 1065px;
+	width: 300px;
+	height: 463px;
+}
+#frame_6 {
+	top: 0px;
+	left: 0px;
+	width: 300px;
+	height: 375px;
+}
+
+#whatsapp_image_2022_09_16_at_10_04_ek1 {
+	top: 105px;
+	left: 0px;
+	width: 300px;
+	height: 354.73px;
+}
+
+
+#syeiwal_moch_a_ {
+	top: 393px;
+	left: 42px;
+	width: 244px;
+	height: 49px;
+	overflow: hidden;
+	font-family: Playfair Display;
+	font-size: 24px;
+	font-weight: bold;
+	text-align: left;
+	color:#575F45;
+}
+
+
+#sosial_media_manager {
+	top: 436px;
+	left: 52px;
+	width: 221px;
+	height: 41px;
+	overflow: hidden;
+	font-family: Playfair Display;
+	font-size: 20px;
+	text-align: left;
+	color:#575F45;
+}
+
+#footer {
+	top: 8245px;
+	left: 0px;
+	width: 1920px;
+	height: 610px;
+}
+
+#rectangle_33 {
+	top: 0px;
+	left: 0px;
+	width: 1920px;
+	height: 11.16px;
+	background:rgba(87,95,69,1);
+}
+
+
+#rectangle_31 {
+	top: 10px;
+	left: 0px;
+	width: 1920px;
+	height: 600px;
+	background:rgba(51,50.36,50.36,1);
+}
+
+#left {
+	top: 154px;
+	left: 171px;
+	width: 487px;
+	height: 280px;
+}
+
+#myx_technology_memiliki_fokus_pada_pengembangan_produk_dan_solusi_teknologi_informasi_untuk_software_development__integrasi_hardware_dan_software__web__mobile_dan_app_design_serta_ppob__payment_point_online_bank__ {
+	top: -9px;
+	left: 0px;
+	width: 510px;
+	height: 293px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 18px;
+	text-align: left;
+	line-height: 40px;
+	margin-top: -7.3333333333333px;
+	height: 311px;
+	letter-spacing: 3.6px;
+	color:#FFFFFF;
+}
+
+#navigation {
+	top: 56px;
+	left: 801px;
+	width: 469px;
+	height: 341px;
+}
+
+#navigation_ek1 {
+	top: 0px;
+	left: -5px;
+	width: 260px;
+	height: 50px;
+	overflow: hidden;
+	font-family: Playfair Display;
+	font-size: 30px;
+	font-weight: bold;
+	text-align: justified;
+	color:#FFFFFF;
+}
+
+#quick_links_1 {
+	top: 99px;
+	left: 0px;
+	width: 469px;
+	height: 242px;
+}
+#texlinks_1 {
+	top: 0px;
+	left: 0px;
+	width: 468.67px;
+	height: 57px;
+}
+
+#villa_bandung_indah_b5_no__11__bandung_jawa_barat__40621 {
+	top: 0px;
+	left: 26px;
+	width: 455px;
+	height: 72px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 22px;
+	text-align: justified;
+	color:#FFFFFF;
+}
+
+
+#polygon_1 {
+	top: 3px;
+	left: 3px;
+	width: 10.15px;
+	height: 16px;
+}
+
+#texlinks_2 {
+	top: 78px;
+	left: 0px;
+	width: 271.67px;
+	height: 22px;
+}
+
+#phone____62_851_7326_0551 {
+	top: 0px;
+	left: 27px;
+	width: 257px;
+	height: 35.5px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 19px;
+	text-align: justified;
+	color:#FFFFFF;
+}
+
+
+#polygon_1_ek1 {
+	top: 3px;
+	left: 3px;
+	width: 10.15px;
+	height: 16px;
+}
+
+#texlinks_3 {
+	top: 125px;
+	left: 0px;
+	width: 271.67px;
+	height: 23px;
+}
+
+#phone____62_811_2111_037 {
+	top: 0px;
+	left: 27px;
+	width: 257px;
+	height: 36.5px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 19px;
+	text-align: justified;
+	color:#FFFFFF;
+}
+
+
+#polygon_1_ek2 {
+	top: 3px;
+	left: 3px;
+	width: 10.15px;
+	height: 16px;
+}
+
+#texlinks_4 {
+	top: 173px;
+	left: 0px;
+	width: 343.67px;
+	height: 22px;
+}
+
+#email___mtryudhaxaviera_gmail_com {
+	top: 0px;
+	left: 27px;
+	width: 329px;
+	height: 35.5px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 19px;
+	text-align: justified;
+	color:#FFFFFF;
+}
+
+
+#polygon_1_ek3 {
+	top: 3px;
+	left: 3px;
+	width: 10.15px;
+	height: 16px;
+}
+
+#texlinks_5 {
+	top: 220px;
+	left: 0px;
+	width: 451px;
+	height: 22px;
+}
+
+#email___mtryudhaxaviera_mitrayudhaxaviera_tech {
+	top: 0px;
+	left: 27px;
+	width: 436px;
+	height: 35.5px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 19px;
+	text-align: justified;
+	color:#FFFFFF;
+}
+
+
+#polygon_1_ek4 {
+	top: 3px;
+	left: 3px;
+	width: 10.15px;
+	height: 16px;
+}
+
+#newsletters {
+	top: 56px;
+	left: 1360px;
+	width: 424px;
+	height: 289.7px;
+}
+#textbox_name {
+	top: 107px;
+	left: 0px;
+	width: 424px;
+	height: 41.48px;
+}
+
+#rectangle_34 {
+	top: 0px;
+	left: 0px;
+	width: 424px;
+	height: 41.48px;
+	background:rgba(196,196,196,1);
+}
+
+
+#name {
+	top: 8px;
+	left: 20px;
+	width: 68px;
+	height: 33px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 18px;
+	text-align: justified;
+	color:#8B8787;
+}
+
+#textbox_email {
+	top: 167px;
+	left: 0px;
+	width: 424px;
+	height: 41.48px;
+}
+
+#rectangle_34_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 424px;
+	height: 41.48px;
+	background:rgba(196,196,196,1);
+}
+
+
+#email {
+	top: 8px;
+	left: 20px;
+	width: 88.15px;
+	height: 39.12px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 18px;
+	text-align: justified;
+	color:#8B8787;
+}
+
+#btn {
+	top: 239px;
+	left: 0px;
+	width: 424px;
+	height: 50.7px;
+}
+
+#rectangle_34_ek2 {
+	top: 0px;
+	left: 0px;
+	width: 424px;
+	height: 50.7px;
+	-ms-border-radius: 10px;
+	-o-border-radius: 10px;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	border-radius: 10px;
+	background:rgba(87,95,69,1);
+}
+
+
+#subscribe {
+	top: 15px;
+	left: 163px;
+	width: 108px;
+	height: 35px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 20px;
+	font-weight: bold;
+	text-align: justified;
+	color:#FFFFFF;
+}
+
+
+#newsletter {
+	top: 0px;
+	left: -5px;
+	width: 405.02px;
+	height: 64.91px;
+	overflow: hidden;
+	font-family: Playfair Display;
+	font-size: 30px;
+	font-weight: bold;
+	text-align: justified;
+	color:#FFFFFF;
+}
+
+
+#rectangle_35 {
+	top: 542px;
+	left: 0px;
+	width: 1920px;
+	height: 67.98px;
+	background:rgba(87,95,69,1);
+}
+
+
+#desain_tanpa_judul_auto_x2_1_ek1 {
+	top: 37px;
+	left: 155px;
+	width: 100px;
+	height: 77.14px;
+}
+
+
+#mitra_yudha_xaviera {
+	top: 36px;
+	left: 268px;
+	width: 218px;
+	height: 97px;
+	overflow: hidden;
+	font-family: Playfair Display;
+	font-size: 24px;
+	font-weight: bold;
+	text-align: left;
+	line-height: 40px;
+	margin-top: -5.3333333333333px;
+	height: 121px;
+	letter-spacing: 4.8px;
+	color:#FFFFFF;
+}
+
+#instagram {
+	top: 428px;
+	left: 802px;
+	width: 60px;
+	height: 60px;
+}
+
+#ellipse_134 {
+	top: 0px;
+	left: 0px;
+	width: 60px;
+	height: 60px;
+	-ms-border-radius: 30px / 30px;
+	-o-border-radius: 30px / 30px;
+	-moz-border-radius: 30px / 30px;
+	-webkit-border-radius: 30px / 30px;
+	border-radius: 30px / 30px;
+	background:rgba(103.06,103.06,103.06,1);
+}
+
+#ant_design_instagram_filled {
+	top: 15px;
+	left: 15px;
+	width: 30px;
+	height: 30px;
+}
+
+#vector_ek5 {
+	top: 3.29px;
+	left: 3.29px;
+	width: 23.42px;
+	height: 23.42px;
+}
+
+#facebook {
+	top: 428px;
+	left: 872px;
+	width: 60px;
+	height: 60px;
+}
+
+#ellipse_135 {
+	top: 0px;
+	left: 0px;
+	width: 60px;
+	height: 60px;
+	-ms-border-radius: 30px / 30px;
+	-o-border-radius: 30px / 30px;
+	-moz-border-radius: 30px / 30px;
+	-webkit-border-radius: 30px / 30px;
+	border-radius: 30px / 30px;
+	background:rgba(103.06,103.06,103.06,1);
+}
+
+#cib_facebook_f {
+	top: 16px;
+	left: 16px;
+	width: 28px;
+	height: 28px;
+}
+
+#vector_ek6 {
+	top: 0px;
+	left: 6.5px;
+	width: 15px;
+	height: 28px;
+}
+
+#linkedin {
+	top: 428px;
+	left: 942px;
+	width: 60px;
+	height: 60px;
+}
+
+#ellipse_136 {
+	top: 0px;
+	left: 0px;
+	width: 60px;
+	height: 60px;
+	-ms-border-radius: 30px / 30px;
+	-o-border-radius: 30px / 30px;
+	-moz-border-radius: 30px / 30px;
+	-webkit-border-radius: 30px / 30px;
+	border-radius: 30px / 30px;
+	background:rgba(103.06,103.06,103.06,1);
+}
+
+#fa_brands_linkedin_in {
+	top: 14px;
+	left: 16px;
+	width: 28px;
+	height: 32px;
+}
+
+#vector_ek7 {
+	top: 0px;
+	left: 0px;
+	width: 28px;
+	height: 28px;
+}
+
+
+
+/* Add your custom CSS here */
