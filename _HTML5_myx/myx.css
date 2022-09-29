@@ -10,7 +10,16 @@ img { position: absolute; display: block; margin: 0px; border: none; padding: 0p
 /* Only edit this if you know what you are doing! */
 div { position: absolute; }
 
-#content-container { display: block; position: relative; width: 1920px; width: 1920px; height: 8855px; overflow: hidden; display: block;  margin-left: auto; margin-right: auto;  }
+#content-container { 
+	display: block; 
+	position: relative; 
+	width: 100%;
+	height: 8855px;
+	min-height: 200px; 
+	overflow: hidden; 
+	margin-left: auto; 
+	margin-right: auto;  
+}
 
 #_bg__myx {
 	top: 0px;
@@ -32,6 +41,7 @@ div { position: absolute; }
 	left: -2px;
 	width: 2023px;
 	height: 1100px;
+	position: center;
 }
 
 
@@ -408,7 +418,7 @@ div { position: absolute; }
 	line-height: 10px;
 	padding-top: 60px;
 	margin-top: -60px;
-	color:#FFFFFF;
+	color:#000000;
 }
 
 
@@ -424,7 +434,7 @@ div { position: absolute; }
 	line-height: 10px;
 	padding-top: 60px;
 	margin-top: -60px;
-	color:#FFFFFF;
+	color:#000000;
 }
 
 
@@ -437,7 +447,7 @@ div { position: absolute; }
 	font-family: Roboto;
 	font-size: 22px;
 	text-align: left;
-	color:#FFFFFF;
+	color:#000000;
 }
 
 
@@ -446,7 +456,7 @@ div { position: absolute; }
 	left: 139px;
 	width: 1642px;
 	height: 3px;
-	background:#FFFFFF;
+	background:#000000;
 }
 
 
@@ -464,7 +474,7 @@ div { position: absolute; }
 	margin-top: -9.3333333333333px;
 	height: 220px;
 	letter-spacing: 2.2px;
-	color:#FFFFFF;
+	color:#000000;
 }
 
 #____ek1 {
@@ -1651,18 +1661,18 @@ div { position: absolute; }
 }
 
 #whatsapp_image_2022_09_16_at_10_09 {
-	top: 103px;
+	top: 105px;
 	left: 3px;
 	width: 300px;
-	height: 332.59px;
+	height: 300px;
 }
 
 
 #m__dharma_yudhatama {
-	top: 393px;
-	left: 0px;
-	width: 328px;
-	height: 49px;
+	top: 410px;
+	left: 40px;
+	width: 305px;
+	height: 50px;
 	overflow: hidden;
 	font-family: Playfair Display;
 	font-size: 24px;
@@ -1673,10 +1683,10 @@ div { position: absolute; }
 
 
 #president_commisioner {
-	top: 438px;
-	left: 43px;
-	width: 239px;
-	height: 41px;
+	top: 440px;
+	left: 60px;
+	width: 305px;
+	height: 50px;
 	overflow: hidden;
 	font-family: Playfair Display;
 	font-size: 20px;
@@ -1698,18 +1708,18 @@ div { position: absolute; }
 }
 
 #whatsapp_image_2022_09_16_at_10_16 {
-	top: 88px;
+	top: 105px;
 	left: 9px;
 	width: 300px;
-	height: 303.33px;
+	height: 300px;
 }
 
 
 #pretty_shafira_dewi {
-	top: 396px;
-	left: 12px;
+	top: 410px;
+	left: 46px;
 	width: 305px;
-	height: 49px;
+	height: 50px;
 	overflow: hidden;
 	font-family: Playfair Display;
 	font-size: 24px;
@@ -1720,9 +1730,9 @@ div { position: absolute; }
 
 
 #chief_executive_officer {
-	top: 438px;
-	left: 46px;
-	width: 232px;
+	top: 440px;
+	left: 49px;
+	width: 305px;
 	height: 41px;
 	overflow: hidden;
 	font-family: Playfair Display;
@@ -1745,18 +1755,18 @@ div { position: absolute; }
 }
 
 #whatsapp_image_2022_09_16_at_10_04 {
-	top: 91px;
+	top: 105px;
 	left: 0px;
 	width: 300px;
-	height: 329.61px;
+	height: 300px;
 }
 
 
 #naufal_exell_rabbani {
-	top: 392px;
-	left: 7px;
-	width: 315px;
-	height: 49px;
+	top: 410px;
+	left: 40px;
+	width: 305px;
+	height: 50px;
 	overflow: hidden;
 	font-family: Playfair Display;
 	font-size: 24px;
@@ -1767,9 +1777,9 @@ div { position: absolute; }
 
 
 #chief_operating_officer {
-	top: 435px;
-	left: 44px;
-	width: 236px;
+	top: 440px;
+	left: 49px;
+	width: 305px;
 	height: 41px;
 	overflow: hidden;
 	font-family: Playfair Display;
@@ -1795,15 +1805,15 @@ div { position: absolute; }
 	top: 105px;
 	left: 0px;
 	width: 300px;
-	height: 354.73px;
+	height: 300px;
 }
 
 
 #syeiwal_moch_a_ {
-	top: 393px;
-	left: 42px;
-	width: 244px;
-	height: 49px;
+	top: 410px;
+	left: 55px;
+	width: 305px;
+	height: 50px;
 	overflow: hidden;
 	font-family: Playfair Display;
 	font-size: 24px;
@@ -1814,9 +1824,9 @@ div { position: absolute; }
 
 
 #sosial_media_manager {
-	top: 436px;
-	left: 52px;
-	width: 221px;
+	top: 440px;
+	left: 45px;
+	width: 305px;
 	height: 41px;
 	overflow: hidden;
 	font-family: Playfair Display;
@@ -2283,3 +2293,44 @@ div { position: absolute; }
 
 
 /* Add your custom CSS here */
+
+
+@media (max-width: 1024) {
+	
+}
+
+@media (max-width: 768) {
+	
+}
+
+@media (max-width: 500) {
+	
+}
+
+/* animasi */
+
+@keyframes fadeIn {
+	from{
+		margin-top: 30%
+	}
+	to{
+		margin-top: 0%
+	}
+	0% {
+		opacity: 0;
+	}
+	40%{
+		opacity: 0;
+	}
+	100% {
+	opacity: 1;
+	}
+}
+
+.animate-fadeIn { 
+	width: 100%;
+	height: 100%;
+	background-color: none;
+	animation: fadeIn 2s ease; 
+	animation-play-state: running;
+}
