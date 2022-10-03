@@ -2,6 +2,7 @@
 	@name myx
 */
 /* Only edit this if you know what you are doing! */
+
 body { margin: 0px; padding: 0px; font-family:"Arial"; overflow-x:hidden; }
 
 /* Only edit this if you know what you are doing! */
@@ -11,11 +12,10 @@ img { position: absolute; display: block; margin: 0px; border: none; padding: 0p
 div { position: absolute; }
 
 #content-container { 
-	display: block; 
-	position: relative; 
+	display: flex; 
 	width: 100%;
 	height: 8855px;
-	min-height: 200px; 
+	min-height: 500px; 
 	overflow: hidden; 
 	margin-left: auto; 
 	margin-right: auto;  
@@ -145,10 +145,10 @@ div { position: absolute; }
 
 
 #get_started {
-	top: 30px;
+	top: 10px;
 	left: 27px;
 	width: 140px;
-	height: 25px;
+	height: 45px;
 	overflow: hidden;
 	font-family: Roboto;
 	font-size: 22px;
@@ -1577,8 +1577,8 @@ div { position: absolute; }
 
 #client_1 {
 	top: 214px;
-	left: 372px;
-	width: 1175px;
+	left: 560px;
+	width: 1000px;
 	height: 407px;
 }
 
@@ -2290,6 +2290,18 @@ div { position: absolute; }
 	height: 28px;
 }
 
+a:link { text-decoration: none; }
+a:visited { text-decoration: none; }
+a:hover { text-decoration: none; }
+a:active { text-decoration: none; }
+
+p{
+	color:#000000;
+}
+
+a{
+	color:#FFFFFF;
+}
 
 
 /* Add your custom CSS here */
